@@ -10,3 +10,6 @@
 <li>Decode IC10.x (PHP 5.3 ~ PHP 7.4)</li>
 <li>Decode phpBolt</li>
 </ol>
+<p dir="auto"><strong>Our Telegram channel: <a href="https://t.me/ionzender">@ionZender</a></strong></p>
+<p dir="auto"><strong>Our Telegram bot: <a href="https://t.me/ionzender_bot">@ionZender_bot</a></strong></p>
+
